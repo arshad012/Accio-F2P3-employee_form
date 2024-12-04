@@ -104,6 +104,8 @@ input {
 .employee-delete-button {
     padding: 7px 15px;
     border-radius: 30px;
+    background-color: #FFFFFF;
+    border: none;
 }
 
 
